@@ -1,0 +1,13 @@
+.footer{
+    height: 10vh;
+    background-color: black;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    p{
+        span{
+            font-weight: 700;
+        }
+    }
+}
